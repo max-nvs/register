@@ -1,0 +1,11 @@
+{
+  "description": "Max — MVP developer for founders",
+  "repo": "https://github.com/max-nvs/maxdevlandingpage",
+  "owner": {
+    "username": "max-nvs",
+    "email": "maxayobami09@gmail.com"
+  },
+  "record": {
+    "CNAME": "ayobami-mvp-dev.netlify.app"
+  }
+}
